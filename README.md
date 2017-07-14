@@ -1,6 +1,6 @@
 <p align="center"
 <br>
-<img src="media/ideas-workshop2017.png" alt="IDEaS banner logo" height=200> <br>
+<img src="media/ideas-workshop2017.png" alt="IDEaS banner logo" height=300> <br>
 </p>
 
 ---
